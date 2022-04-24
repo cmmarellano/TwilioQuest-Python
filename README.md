@@ -1,6 +1,6 @@
 # TwilioQuest-Python
 
-Compiled solutions for [TwilioQuest](https://www.twilio.com/quest) - Pythonic Temple <br>
+Compilation of my solutions for [TwilioQuest](https://www.twilio.com/quest) - Pythonic Temple <br>
 Includes:
 - codes to complete all __9 challenges__ to acquire the Staff of Pythonic Knowledge
 - bonus: code to solve __Citizen challenge__ to acquire Pythonic Scimitar
